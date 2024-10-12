@@ -1,0 +1,4 @@
+Code gốc của bài báo:
+https://github.com/rhr407/EVAGAN.git
+Dataset của bài báo: 
+https://drive.google.com/drive/folders/1sOUEK0Cgpm_P_uxpBydTzGXbJdPISGnU?usp=sharing
